@@ -13,7 +13,7 @@
                 "changelog": "Updates compatability with FileTransformation. Fixes bug where un-rated items don't show despite minimum rating filter set to zero. Fixes bug loading on some TVs, adds option to hide slider on TV mode.",
                 "targetAbi": "10.10.6.0",
                 "sourceUrl": "https://github.com/BigLands1/jellyfin-editors-choice-plugin/releases/download/V1.0.0/EditorsChoicePlugin.dll.zip",
-                "checksum": "69f50b6e8428e22ef70daee6b4e67c63",
+                "checksum": "2cc2c4abdeb7eda63c7a3fb75f43164b",
                 "timestamp": "2025-09-20 13:02:00"
             },
             {
